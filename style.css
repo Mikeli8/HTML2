@@ -1,0 +1,217 @@
+.Bgi\(forest\) {
+    background-image: url("https://phonoteka.org/uploads/posts/2021-06/1624525917_37-phonoteka_org-p-oboi-na-telefon-les-v-tumane-krasivo-43.jpg");
+}
+.Bgz\(cv\){
+    background-size: cover;
+}
+.Bgz\(ct\){
+    background-size: contain;
+}
+.Bgr\(nr\){
+    background-repeat: no-repeat;
+}
+.D\(f\){
+    display: flex;
+}
+.Ac\(c\){
+    align-content: center;
+}
+.H\(900\){
+    height: 900px;
+}
+.Jc\(sb\){
+    justify-content: space-between;
+}
+.Jc\(c\){
+    justify-content: center;
+}
+.Ta\(c\){
+    text-align: center;
+}
+.M\(0\){
+    margin: 0;
+}
+.P\(0\){
+    padding: 0;
+}
+.C\(white\){
+    color: white;
+}
+.As\(c\){
+    align-self: center;
+}
+.Ai\(c\){
+    align-items: center;
+}
+.Pos\(a\){
+    position: absolute;
+}
+.Fz\(36px\){
+    font-size: 48px;
+}
+.D\(g\){
+    display: grid;
+}
+.Gtc\(3-3\){
+    grid-template-columns: 1fr 1.1fr 0.9fr 1fr;
+}
+.Gtr\(3-3\){
+    grid-template-rows: 1.6fr 0.7fr 0.7fr;
+}
+.Gcs\(1\){
+    grid-column-start: 1;
+}
+.Gce\(3\){
+    grid-column-end: 3;
+}
+.Gaf\(row\){
+    grid-auto-flow: row;
+}
+.Gta\(fh\){
+    grid-template-areas:
+    "area-1 area-1 area-1 area-1"
+    "area-2 area-3 area-4 area-5"
+    "area-6 area-7 area-8 area-9";
+}
+.Ga\(1\){
+    grid-area: area-1;
+}
+.Ga\(2\){
+    grid-area: area-2;
+}
+.Ga\(3\){
+    grid-area: area-3;
+}
+.Ga\(4\){
+    grid-area: area-4;
+}
+.Ga\(5\){
+    grid-area: area-5;
+}
+.Ga\(6\){
+    grid-area: area-6;
+}
+.Ga\(7\){
+    grid-area: area-7;
+}
+.Ga\(8\){
+    grid-area: area-8;
+}
+.Ga\(9\){
+    grid-area: area-9;
+}
+.W\(130px\){
+    width: 170px;
+}
+.WH\(2\){
+    width: 780px;
+    height: 400px;
+}
+.WH\(21\){
+    width: 555px;
+    height: 400px;
+}
+.WH\(1\){
+    width: 750px;
+    height: 362px;
+}
+.WH\(11\){
+    width: 550px;
+    height: 362px;
+}
+.Fz\(24px\){
+    font-size: 24px;
+}
+.Gp\(10\){
+    gap: 10px 10px;
+}
+.P\(30\){
+    padding: 30px;
+}
+.M\(30\){
+    margin: 250px;
+}
+.Pos\(r\){
+    position: relative;
+}
+.Mr\(10\){
+    margin-right: 10%;    
+}
+.Ml\(10\){
+    margin-left: 10%;
+}
+.Mx\(10\){
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.Pt\(5\){
+    padding: 5%;
+}
+.Bdrs\(5\){
+    border-radius: 5px;
+}
+.Gtc\(2\){
+    grid-template-columns: 800px;
+}
+.Gtr\(2\){
+    grid-template-rows: 250px 200px;
+}
+.Mx\(20\){
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.Jc\(sp\){
+    justify-content: space-between;
+    position: relative;
+}
+.Gtc\(21\){
+    grid-template-columns: 950px;
+}
+.Gtr\(21\){
+    grid-template-rows: 430px 400px;
+}
+.Pi\(center\){
+    place-items: center;
+}
+.M\(130\){
+    margin-top: 250px;
+}
+.P\(10\){
+    padding-top: 5px;
+}
+.Px\(10\){
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.Bdc\(gray\){
+    background-color: lightgray;
+}
+.Bd\(1\){
+    border: 3px solid green;
+}
+.Py\(0\){
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.Gp\(10\){
+    gap: 5px 5px;
+}
+.Fw\(700\){
+    font-weight: 700;
+}
+.Ji\(c\){
+    justify-items: center;
+}
+.Bgi\(tree\) {
+    background-image: url("https://images.wallpaperscraft.ru/image/single/les_derevia_nebo_156447_3840x2400.jpg");
+    width: 700px;
+    height: 400px;
+}
+.Bgi\(river\) {
+    background-image: url("https://images.wallpaperscraft.ru/image/single/chelovek_siluet_gory_146540_3840x2400.jpg");
+    width: 710px;
+    height: 362px;
+}
+.M\(x\){
+    margin: 0 5px;
+}
